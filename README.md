@@ -78,12 +78,12 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/Diploma QA.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Miragusenova/Miragusenova/main/Diploma QA.png)
+[<img src="/Diploma QA.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Miragusenova/Miragusenova/main/Diploma_QA.png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/Diploma QA.png" width="280px" hspace="10px" alt="Диплом">](https://raw.githubusercontent.com/Miragusenova/Miragusenova/main/Diploma QA.png)
+[<img src="/Diploma QA.png" width="280px" hspace="10px" alt="Диплом">](https://raw.githubusercontent.com/Miragusenova/Miragusenova/main/Diploma_QA.png)
 
 <br>
 <br>
